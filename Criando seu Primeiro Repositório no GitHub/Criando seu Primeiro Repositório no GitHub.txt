@@ -1,1 +1,10 @@
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+Esse desafio tem como objetivo mostrar aos alunos como compartilhar seu progresso para empresas interessadas em seu desenvolvimento em linhas de código no GitHub
+Ele é uma extensão do curso de Git e Github
+README file - 'Homepage' do seu repositório
+gitignore - Ignora alguns arquivos de build e que não são exatamente essenciais
+[] - Cria um link
+Ctrl + L - Limpa
+O Git Bash é um terminal extendido para otimizar o uso do Git
+$git commit -m "" - Para adicionar mensagem ao commit
+$git push origin main - Manda todas as commits no branch atual para a nuvem
